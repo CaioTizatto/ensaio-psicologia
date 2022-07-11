@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{color: #EEF26B; text-shadow: 2px 1px 1px black;
+    font-family:'guilzar' ;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.651);  
+    font-size: 20pt;
+    }
+  img{width: 25%; margin:auto;}
+
